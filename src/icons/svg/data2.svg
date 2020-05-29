@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>icon / h24pt / data 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.7528168,2.72860796 C18.2606057,3.74449084 20.2599249,5.74518808 21.2740396,8.25372544 C21.6880291,9.27777938 21.1934741,10.4435439 20.1694202,10.8575334 C19.1941307,11.2518091 18.0903056,10.8220083 17.6297712,9.89556451 L17.5656122,9.75291406 C16.9576044,8.24893202 15.7545467,7.04504508 14.2509973,6.43597064 C13.2272374,6.02125463 12.7335097,4.85513947 13.1482257,3.83137953 C13.5629417,2.8076196 14.7290569,2.31389194 15.7528168,2.72860796 Z" id="path-1"></path>
+        <filter x="-83.1%" y="-59.4%" width="266.3%" height="266.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.062745098   0 0 0 0 0.882352941   0 0 0 0 0.231372549  0 0 0 0.32 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon-/-h24pt-/-data-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="icon-/-h24pt-/-占位" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="ic_donut_large_48px">
+            <polygon id="路径" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M10.8562885,3.83075233 C11.270435,4.85474276 10.7760589,6.02058315 9.75206846,6.43472972 C7.50305236,7.34433031 6,9.53242427 6,12 C6,15.3137085 8.6862915,18 12,18 C14.4665034,18 16.6538319,16.4982597 17.564156,14.2506846 C17.978814,13.2269011 19.1449011,12.7331073 20.1686846,13.1477652 C21.192468,13.5624231 21.6862619,14.7285102 21.2716039,15.7522937 C19.7547119,19.4974749 16.1097113,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,7.88849538 4.50470524,4.24222825 8.25231107,2.72653235 C9.2763015,2.31238578 10.4421419,2.8067619 10.8562885,3.83075233 Z" id="路径" fill="#152334" fill-rule="nonzero"></path>
+            <g id="路径">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#1DDB44" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon / h24pt / proportion</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-/-h24pt-/-proportion" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="icon-/-h24pt-/-占位" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <path d="M18.3183175,15.0168899 C18.7553044,14.1033477 19,13.0802497 19,12 L14,12 C12.8954305,12 12,11.1045695 12,10 L12,5 L12,5 C8.13400675,5 5,8.13400675 5,12 C5,15.8659932 8.13400675,19 12,19 C13.6110516,19 15.0949873,18.4557523 16.2779783,17.5410856" id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M21,12 C21,7.02943725 16.9705627,3 12,3 L12,10 C12,11.1045695 12.8954305,12 14,12 L21,12 L21,12 Z" id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

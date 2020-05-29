@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>icon / h24pt / aummary</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="13" y="3" width="8" height="8" rx="4"></rect>
+        <filter x="-87.5%" y="-62.5%" width="275.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.062745098   0 0 0 0 0.882352941   0 0 0 0 0.231372549  0 0 0 0.32 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon-/-h24pt-/-aummary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="icon-/-h24pt-/-占位" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <rect id="矩形" fill="#152334" x="3" y="3" width="8" height="8" rx="3"></rect>
+        <rect id="矩形备份-2" fill="#152334" x="3" y="13" width="8" height="8" rx="3"></rect>
+        <g id="矩形备份">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#1DDB44" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <rect id="矩形备份-3" fill="#152334" x="13" y="13" width="8" height="8" rx="3"></rect>
+    </g>
+</svg>

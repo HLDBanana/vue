@@ -1,0 +1,95 @@
+.dotIcon {
+  display: inline-block;
+  height: 8px;
+  width: 8px;
+  margin: 0px 8px 0px 0px;
+  border-radius: 5px;
+}
+
+.dotIconSmall {
+  display: inline-block;
+  height: 6px;
+  width: 6px;
+  margin: 0px 8px 2px 0px;
+  border-radius: 5px;
+}
+
+.dotColor0 {
+  background: rgba(88, 142, 250, 1);
+  box-shadow: 0px 4px 6px -1px rgba(88, 142, 250, 0.5);
+}
+
+.dotColor1 {
+  background: rgba(84, 215, 248, 1);
+  box-shadow: 0px 4px 6px -1px rgba(84, 215, 248, 0.5);
+}
+
+.dotColor2 {
+  background: rgba(60, 241, 165, 1);
+  box-shadow: 0px 4px 6px -1px rgba(60, 241, 165, 0.5);
+}
+
+.dotColor3 {
+  background: rgba(252, 236, 69, 1);
+  box-shadow: 0px 4px 6px -1px rgba(252, 236, 69, 0.5);
+}
+
+.dotColor4 {
+  background: rgba(246, 169, 49, 1);
+  box-shadow: 0px 4px 6px -1px rgba(246, 169, 49, 0.5);
+}
+
+.dotColor5 {
+  background: rgba(235, 92, 59, 1);
+  box-shadow: 0px 4px 6px -1px rgba(235, 92, 59, 0.5);
+}
+
+.dotColor6 {
+  background: rgba(200, 16, 76, 1);
+  box-shadow: 0px 4px 6px -1px rgba(200, 16, 76, 0.5);
+}
+
+.dotColor7 {
+  background: rgba(164, 75, 240, 1);
+  box-shadow: 0px 4px 6px -1px rgba(164, 75, 240, 0.5);
+}
+
+.dotColor8 {
+  background: rgba(224,152,199, 1);
+  box-shadow: 0px 4px 6px -1px rgba(224,152,199, 0.5);
+}
+
+.dotColor9 {
+  background: rgba(123,217,165, 1);
+  box-shadow: 0px 4px 6px -1px rgba(123,217,165, 0.5);
+}
+
+.cancelButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 80px;
+  height: 32px;
+  border-radius: 4px;
+  border: 1px solid rgba(42, 47, 43, 0.3);
+  font-size: 16px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: rgba(42, 47, 43, 1);
+  line-height: 24px;
+}
+
+.confirmButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 80px;
+  height: 32px;
+  background: rgba(18, 183, 52, 1);
+  border-radius: 4px;
+  font-size: 16px;
+  font-family: PingFangSC-Semibold, PingFang SC;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+}
